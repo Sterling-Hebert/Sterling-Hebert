@@ -34,13 +34,15 @@
   <img width="12" />
   <img src="https://camo.githubusercontent.com/58e35d08b53ec029f0e3e587a28a6f65777d352f797add843d153a0db60b9d7d/68747470733a2f2f692e696d6775722e636f6d2f79764559686e5a2e706e67"  height="130" width="100" alt="sequelize logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"  height="100" width="130" alt="node logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:365/1*Jr3NFSKTfQWRUyjblBSKeg.jpeg"  height="100" width="130" alt="node logo"  />
   <img width="12" />
   <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"  height="100" width="130" alt="react logo"/>
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="100" width="130" alt="redux logo"/>
   <img width="10" />
   <img src="https://www.drupal.org/files/project-images/Google-API.jpg"  height="100" width="130" alt="redux logo"/>
+  <img width="12" />
+  <img src="https://logowik.com/content/uploads/images/git6963.jpg"  height="100" width="130" alt="redux logo"/>
   <img width="12" />
 </div>
 
