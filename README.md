@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSterling-Hebert%2FSterling-Hebert%2F&countColor=%23263759"  />
 </div>
 
 <h1 align="center">👋 Hello, hope all is well! </h1>
