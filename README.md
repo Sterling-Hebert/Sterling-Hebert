@@ -20,29 +20,29 @@
 
 <h3 align="left">🛠 Languages and tools</h3>
 <div align="left">
-  <img src="https://static.wikia.nocookie.net/coding-help/images/6/69/JavaScript.png/revision/latest?cb=20230517123229" height="100" alt="javascript logo"  />
+  <img src="https://static.wikia.nocookie.net/coding-help/images/6/69/JavaScript.png/revision/latest?cb=20230517123229"  height="100" width="140" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" height="100" alt="python logo"  />
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png"  height="100" width="140" alt="python logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo-thumbnail.png" height="100" alt="SQLITE logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"  height="100" width="130" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" height="100" alt="flask logo"  />
+  <img src="https://img.freepik.com/free-icon/css_318-698167.jpg?w=360"  height="100" width="130" alt="css logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="100" alt="html5 logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png"  height="100" width="130" alt="flask logo"  />
   <img width="12" />
-  <img src="https://img.freepik.com/free-icon/css_318-698167.jpg?w=360" height="100" alt="css logo"  />
+  <img src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo-thumbnail.png"  height="100" width="130" alt="SQLITE logo"  />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/aws-icon-1024x1024-runl182z.png" height="100" alt="amazonwebservices logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/aws-icon-1024x1024-runl182z.png"  height="100" width="130" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/58e35d08b53ec029f0e3e587a28a6f65777d352f797add843d153a0db60b9d7d/68747470733a2f2f692e696d6775722e636f6d2f79764559686e5a2e706e67" height="100" alt="sequelize logo"  />
+  <img src="https://camo.githubusercontent.com/58e35d08b53ec029f0e3e587a28a6f65777d352f797add843d153a0db60b9d7d/68747470733a2f2f692e696d6775722e636f6d2f79764559686e5a2e706e67"  height="130" width="100" alt="sequelize logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="100" alt="node logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"  height="100" width="130" alt="node logo"  />
   <img width="12" />
-  <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" height="100" alt="react logo"/>
+  <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"  height="100" width="130" alt="react logo"/>
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="100" alt="redux logo"/>
-  <img width="12" />
-  <img src="https://www.drupal.org/files/project-images/Google-API.jpg" height="100" alt="redux logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="100" width="130" alt="redux logo"/>
+  <img width="10" />
+  <img src="https://www.drupal.org/files/project-images/Google-API.jpg"  height="100" width="130" alt="redux logo"/>
   <img width="12" />
 </div>
 
