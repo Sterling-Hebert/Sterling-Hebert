@@ -11,8 +11,8 @@
 </div>
 
 <h1 align="center">👋 Hello, hope all is well! </h1>
-<p align="left">👩‍💻 My name is Sterling and I'm from Slidell, Louisiana.<br><br>📚 I'm currently learning to become a software engineer.</p>
-<p align="left">📫 You can reach me: sterling_hebert@outlook.com</p>
+<p align="left">👩‍💻 My name is Sterling and I'm from Slidell, Louisiana. <br><br>📚 I'm currently learning to become a software engineer.</p>
+<p align="left">📫 You can reach me @ sterling_hebert@outlook.com</p>
 
 ----
 
