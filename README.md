@@ -1,16 +1,11 @@
 
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height=50" alt="linkedin logo"  />
-</div>
-
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSterling-Hebert%2FSterling-Hebert%2F&countColor=%23263759"  />
-</div>
-
 <h1 align="center">Hey!👋 I'm Sterling,a SWE from south Louisiana!</h1>
 <h2 align="center">📫 You can reach me any time at sterling_hebert@outlook.com or any on my linked profiles.</h2>
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height=50" alt="linkedin logo"  />
+</div>
 
 <h3 align="left">🛠 Languages and tools</h3>
 <div align="left">
@@ -53,6 +48,10 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSterling-Hebert%2FSterling-Hebert%2F&countColor=%23263759"  />
+</div>
 <!--
 **Sterling-Hebert/Sterling-Hebert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
