@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/e4/a9/06/e4a906d8ec0f8594f71e5c9866f8b26c.gif"  />
-</div>
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height=50" alt="linkedin logo"  />
@@ -10,11 +8,9 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSterling-Hebert%2FSterling-Hebert%2F&countColor=%23263759"  />
 </div>
 
-<h1 align="center">👋 Hello, hope all is well! </h1>
-<p align="left">👩‍💻 My name is Sterling and I'm from Slidell, Louisiana.
-<p align="left">📫 You can reach me @ sterling_hebert@outlook.com</p>
+<h1 align="center">Hey!👋 I'm Sterling,a SWE from south Louisiana!</h1>
+<h2 align="center">📫 You can reach me any time at sterling_hebert@outlook.com or any on my linked profiles.</h2>
 
-----
 
 <h3 align="left">🛠 Languages and tools</h3>
 <div align="left">
