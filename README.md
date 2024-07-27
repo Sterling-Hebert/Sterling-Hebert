@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey!👋 My name is Sterling, a SWE from south Louisiana!</h1>
+<h1 align="center">Hello!👋 My name is Sterling, a SWE from south Louisiana!</h1>
 <h2 align="center">📫 You can reach me any time at sterling_hebert@outlook.com or any on my linked profiles.</h2>
 
 <div align="center">
