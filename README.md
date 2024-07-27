@@ -39,7 +39,6 @@
 
 ---
 
-<h3 align="left">Stats :</h3>
 
 ###
 
